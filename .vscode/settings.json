@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cweb": "cpp",
+        "cmath": "cpp",
+        "cstdio": "cpp"
+    },
+    "cmake.sourceDirectory": "/mnt/c/Users/vansh/Documents/VsCode/ClassCodes"
+}
